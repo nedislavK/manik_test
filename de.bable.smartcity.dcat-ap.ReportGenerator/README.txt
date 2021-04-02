@@ -1,0 +1,1 @@
+The java class Report Generator is used to generate the documentation of the Test Controller.
