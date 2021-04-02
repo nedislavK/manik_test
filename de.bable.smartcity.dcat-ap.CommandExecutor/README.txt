@@ -1,1 +1,0 @@
-This class is used to run commands from CKAN interface. This java class can be used to execute commands to new subinterfaces from SUT Interface.
