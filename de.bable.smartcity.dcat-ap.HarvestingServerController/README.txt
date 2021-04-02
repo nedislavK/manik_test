@@ -1,0 +1,1 @@
+- This java class manages the web server and where the DCAT files will be stored. It is also possible for the class to provide a web server.
