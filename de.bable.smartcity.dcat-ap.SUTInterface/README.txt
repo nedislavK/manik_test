@@ -1,0 +1,1 @@
+The Interface guarantees the communication between Manik-IT software and the SUT – CKAN. The SUT Interface is using the CKAN Interface.
