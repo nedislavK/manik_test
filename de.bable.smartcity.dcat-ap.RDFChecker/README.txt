@@ -1,0 +1,1 @@
+This java class checks if the received RDF files are correct.
