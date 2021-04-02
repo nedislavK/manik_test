@@ -1,1 +1,2 @@
-# manik_test
+# MANIK-IT 
+Test repository
