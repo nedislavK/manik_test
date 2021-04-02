@@ -1,0 +1,1 @@
+Class to manage other tests. Takes individual tests and executes them.
