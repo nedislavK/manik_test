@@ -1,1 +1,0 @@
-File which contains all configurations, it needs to read them and offer them to the other java classes.
