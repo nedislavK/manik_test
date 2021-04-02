@@ -1,0 +1,1 @@
+Access server and receives, validates and uploads data to it and return results.
