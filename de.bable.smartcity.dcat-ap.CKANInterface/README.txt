@@ -1,0 +1,1 @@
+The software created by Manik-IT has the ability to be adapted for testing different systems. The necessary sub-interfaces can be created for this purpose. In this particular case, a sub-interface has been created. The CKAN Interface guarantees the successful work between SUT(CKAN) and the Manik-IT software.
